@@ -1,2 +1,1 @@
-# dzone-spring-boot
-Spring Boot Microservice Series
+# microservices-config-repo
